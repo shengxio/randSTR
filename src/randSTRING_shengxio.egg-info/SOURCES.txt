@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/randSTRING/__init__.py
+src/randSTRING/randSTRING.py
+src/randSTRING_shengxio.egg-info/PKG-INFO
+src/randSTRING_shengxio.egg-info/SOURCES.txt
+src/randSTRING_shengxio.egg-info/dependency_links.txt
+src/randSTRING_shengxio.egg-info/top_level.txt
